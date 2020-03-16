@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/lqx-anoop/demo/_apis/build/status/liquidxinc.azure-test?branchName=master)](https://dev.azure.com/lqx-anoop/demo/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
